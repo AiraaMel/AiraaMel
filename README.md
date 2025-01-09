@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, i am AiraaMel 
 
-<!--
-**AiraaMel/AiraaMel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Business lover
+Do everthing listening music, like 24 hours per day
+{
+    title_color: "8d192b",
+    text_color: "862931",
+    icon_color: "B71F36",
+    border_color: "e9d8d4",
+    bg_color: "e9d8d4",
+  }
