@@ -13,10 +13,15 @@ Do everthing listening music, like 24 hours per day
 <a href="https://inteli-college.slack.com/team/U085DUGKQKZhttps" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" target="_blank"></a>
 <a href = "mailto: airamelbs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+name: Generate Datas
 
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
 
-
-
+jobs:
+  build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
@@ -33,3 +38,4 @@ Do everthing listening music, like 24 hours per day
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
