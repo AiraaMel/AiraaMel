@@ -1,13 +1,13 @@
 ## Hi, i am AiraaMel 
 
 
--💸Business lover
--🎧 Do everthing listening music, like 24 hours per day
--✈️ My dream is to visit the world.
--🏎️ A Formula 1 fan fueled by speed, strategy, and adrenaline
--🍪 Cooking is my love language
--🌎 Passionate about learning new languages
--🎀 Balance between the most girly things possible while not
+-💸Business lover  
+-🎧 Do everthing listening music, like 24 hours per day  
+-✈️ My dream is to visit the world  
+-🏎️ A Formula 1 fan fueled by speed, strategy, and adrenaline  
+-🍪 Cooking is my love language  
+-🌎 Passionate about learning new languages  
+-🎀 Balance between the most girly things possible while not  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose)
 
