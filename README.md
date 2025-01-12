@@ -2,17 +2,11 @@
 
 
 💸Business lover
-
 🎧 Do everthing listening music, like 24 hours per day
-
-✈️ My dream is to visit every continent and connect with cultures around the world.
-
-🏎️ I’m a Formula 1 and cars fanatic
-
+✈️ My dream is to visit the world.
+🏎️ A Formula 1 fan fueled by speed, strategy, and adrenaline
 🍪 Cooking is my love language
-
 🌐 I’m passionate about learning new languages
-
 🎀 Balance between the most girly things possible while not
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose)
@@ -29,5 +23,8 @@
 
 ![snake gif](https://github.com/AiraaMel/AiraaMel/blob/output/github-contribution-grid-snake.svg)
 
-[!TIP]_"The best way to predict the future is to create it."_  
-Let’s innovate together! 🚀
+> [!TIP]
+> "The best way to predict the future is to create it."_  
+> Let’s innovate together! 🚀
+
+keeping push
