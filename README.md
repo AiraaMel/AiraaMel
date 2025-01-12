@@ -2,7 +2,9 @@
 
 
 💸Business lover
+
 🎧 Do everthing listening music, like 24 hours per day
+
 ✈️ My dream is to visit the world.
 🏎️ A Formula 1 fan fueled by speed, strategy, and adrenaline
 🍪 Cooking is my love language
@@ -23,8 +25,7 @@
 
 ![snake gif](https://github.com/AiraaMel/AiraaMel/blob/output/github-contribution-grid-snake.svg)
 
-> [!TIP]
-> "The best way to predict the future is to create it."_  
-> Let’s innovate together! 🚀
+<a name="The best way to predict the future is to create it"></a>
+
 
 keeping push
