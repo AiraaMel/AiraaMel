@@ -12,7 +12,6 @@
 # My Buddy <a href="https://github.com/lidiamariano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiraaMel&layout=donut&theme=rose)](https://github.com/AiraaMel/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiraaMel&layout=compact&theme=rose)
 
