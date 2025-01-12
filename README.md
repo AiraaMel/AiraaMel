@@ -15,7 +15,8 @@
 
 
 ### My Buddy <a href="https://github.com/lidiamariano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-> "The best way to predict the future is to create it"
+
+> "The best way to predict the future is to create it"   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose) 
 
