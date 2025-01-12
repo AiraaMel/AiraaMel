@@ -9,7 +9,7 @@
 🌎 Passionate about learning new languages  
 🎀 Balance between the most girly things possible while not  
 
-#My Buddy <a href="https://github.com/lidiamariano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+# My Buddy <a href="https://github.com/lidiamariano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose)
 
