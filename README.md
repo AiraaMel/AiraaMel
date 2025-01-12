@@ -9,6 +9,9 @@
 🌎 Passionate about learning new languages  
 🎀 Balance between the most girly things possible while not  
 
+My Buddy
+> @lidiamariano
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiraaMel&layout=compact&theme=rose)
@@ -24,9 +27,5 @@
 ![snake gif](https://github.com/AiraaMel/AiraaMel/blob/output/github-contribution-grid-snake.svg)
 
 > [!TIP]
+>
 > "The best way to predict the future is to create it"></a>
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-_keeping push_
