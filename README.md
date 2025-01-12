@@ -10,7 +10,7 @@
 🎀 Balance between the most girly things possible while not  
 
 My Buddy
-> @lidiamariano
+> https://github.com/lidiamariano
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose)
 
@@ -28,4 +28,4 @@ My Buddy
 
 > [!TIP]
 >
-> "The best way to predict the future is to create it"></a>
+> "The best way to predict the future is to create it"
