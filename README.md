@@ -9,10 +9,13 @@
 🌎 Passionate about learning new languages  
 🎀 Balance between the most girly things possible while not  
 
+#### Curiosity
+> I love dance
+> I love the beach, the last time I went I was worried because there were rocks in the sea
 
 > "The best way to predict the future is to create it"
 
-# My Buddy <a href="https://github.com/lidiamariano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+### My Buddy <a href="https://github.com/lidiamariano" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiraaMel&theme=rose) 
 
